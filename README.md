@@ -35,4 +35,4 @@ I study at Yupparaj Wittayalai School.
 
 ### Support Me
 
-<a href="[https://www.buymeacoffee.com/https://bmc.link/Trophoston](https://www.buymeacoffee.com/Trophoston)"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Trophoston"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
