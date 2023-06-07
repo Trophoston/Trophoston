@@ -7,7 +7,7 @@ High school student
 I study at Yupparaj Wittayalai School.
 
 * 🌍  I'm based in Chiang Mai, Thailand
-* 🖥️  See my portfolio at [<website>](http://photostongalse.netlify.app/)
+* 🖥️  See my portfolio at https://photostongalse.netlify.app/
 * 🧠  I'm learning C# , Javascript , Ai(machine learning)
 * ⚡  I like to play Sage
 
