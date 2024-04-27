@@ -2,13 +2,10 @@
     <img src="cf967422e59cb00255197bac8583180f9a9c3753-1280x720.png" style="height:300px;">
 </p>
 
-<p align="center">Hi My name is Tansyakaan Jomchanphan</p>
+<p align="center">Hi My name is Trophoston!</p>
 
 
-## 👨‍💻 My skill code. 
-
-High school student
--------------------
+## 
 
 I study at Yupparaj Wittayalai School.
 
