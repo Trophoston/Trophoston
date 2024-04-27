@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="710e82c8-c207-4ca1-a4aa-423fb424fbae.gif" style="height:250px; width:100%; object-fit:contian">
+    <img src="710e82c8-c207-4ca1-a4aa-423fb424fbae.gif" style="height:300px; width:500px; object-fit:contian">
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tansyakaan Jomchanphan
