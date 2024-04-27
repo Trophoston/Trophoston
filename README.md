@@ -19,5 +19,5 @@
 ## Socials
 
 <p align="center"> <a href="https://discord.com/users/trophoston" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Trophoston" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCQP8HRzD1ze2QiQKplkfQEA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-                    <a href="https://www.instagram.com/trophoston/" target="_blank" rel="noreferrer"><img src="instagram.svg" style="color: #e13d3d;" width="32" height="32" /></a width="32" height="32"></p>
+                    <a href="https://www.instagram.com/trophoston/" target="_blank" rel="noreferrer"><img src="instagram.svg"  width="32" height="32" /></a width="32" height="32"></p>
 
