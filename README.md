@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="cf967422e59cb00255197bac8583180f9a9c3753-1280x720.png" style="height:300px;">
+    <img src="cf967422e59cb00255197bac8583180f9a9c3753-1280x720.png" >
 </p>
 
 <p align="center">Hi My name is Trophoston!</p>
