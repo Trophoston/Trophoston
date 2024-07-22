@@ -17,4 +17,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31s5ftowogncjflxw264hb7yvk2y&unique={true|1|on|yes})
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31s5ftowogncjflxw264hb7yvk2y)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
