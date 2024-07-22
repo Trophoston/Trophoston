@@ -28,4 +28,21 @@
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white" alt="Adobe"> 
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"> 
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"> 
-  <img src="https://img.shields
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"> 
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"> 
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"> 
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva"> 
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender"> 
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"> 
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino"> 
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion">
+
+  # 📊 GitHub Stats:
+  <img src="https://github-readme-stats.vercel.app/api?username=trophoston&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trophoston&theme=react&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trophoston&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+
+  ---
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=trophoston&icon=2&color=0" alt="Visitor Count"></a>
+
+</div>
