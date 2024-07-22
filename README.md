@@ -2,7 +2,9 @@
 ✨I'm Front-end developers<br>📖I'm Yupparaj Wittiyalai students
 
 ## 🌐 Socials:
-<detail>
+<details>
+
+<summary>Tips for collapsed sections</summary>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trophoston) 
 
