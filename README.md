@@ -15,4 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=trophoston&icon=2&color=0)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31s5ftowogncjflxw264hb7yvk2y&unique={true|1|on|yes})
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
