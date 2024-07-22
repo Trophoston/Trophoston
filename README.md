@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="11674960516942148883" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/anya-anya-forger-anya-anime-anime-power-power-up-gif-11674960516942148883">Anya Anya Forger GIF</a>from <a href="https://tenor.com/search/anya-gifs">Anya GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <div align="center">
   
   # 💫 About Me:
