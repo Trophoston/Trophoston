@@ -1,6 +1,6 @@
 <div align="center">
 
-<img style="margin:auto; border-radius:16px;" src="https://c.tenor.com/i4OpcMEFJtcAAAAC/tenor.gif">
+<img style="margin:auto; border-radius:100px;" src="https://c.tenor.com/i4OpcMEFJtcAAAAC/tenor.gif">
 <!-- anya https://c.tenor.com/ogXKu8sMNRMAAAAC/tenor.gif -->
 
   
