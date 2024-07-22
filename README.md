@@ -1,6 +1,8 @@
+<div align="center">
+
 <img style="margin:auto" src="https://c.tenor.com/ogXKu8sMNRMAAAAC/tenor.gif">
 
-<div align="center">
+
   
   # 💫 About Me:
   ✨I'm Front-end developer<br>📖I'm Yupparaj Wittiyalai student
